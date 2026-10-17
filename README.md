@@ -1,8 +1,5 @@
 <div align="center">
 
-
-# Hi there 👋 I'm Aholala
-
 <a href="https://github.com/Aholala">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Aholala;C+%2F+C%2B%2B+%2F+Python;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </a>
